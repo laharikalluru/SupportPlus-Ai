@@ -1,0 +1,18 @@
+# Environments
+venv/
+env/
+.env
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local Databases & Data
+app/db/memory.db
+app/db/vector_store/
+app/data/ui_history.json
+
+# IDEs
+.vscode/
+.idea/

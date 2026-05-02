@@ -1,0 +1,153 @@
+====================
+SECTION: Account & Billing
+====================
+
+Q: How do I reset my password?
+A: To reset your password, go to the login page and click "Forgot Password". Enter your registered email address and we will send you a password reset link within 2 minutes. The link is valid for 30 minutes. If you do not receive the email, check your spam folder or contact support@supportplus.ai.
+
+Q: How can I update my billing information?
+A: Log in to your account, navigate to Settings > Billing > Payment Methods. You can add, remove, or set a default payment method. Changes take effect on your next billing cycle. For immediate assistance, contact our billing team at billing@supportplus.ai.
+
+Q: What payment methods do you accept?
+A: We accept all major credit and debit cards (Visa, MasterCard, American Express, Discover), PayPal, Google Pay, Apple Pay, and bank transfers for annual plans. Cryptocurrency payments are available upon request for enterprise customers.
+
+Q: Why is my payment failing?
+A: Payment failures can occur due to: (1) Insufficient balance or credit limit reached. (2) Incorrect card number, expiry date, or CVV. (3) Billing address mismatch with bank records. (4) Bank blocking international or online transactions. (5) Temporary network or processor downtime. Try again after a few minutes or use a different payment method. If the problem persists, email billing@supportplus.ai with the last four digits of your card and the error message shown.
+
+Q: My invoice shows the wrong amount. What should I do?
+A: Open Settings > Billing > Invoices and review the line items. Common reasons for unexpected amounts include: prorated charges for mid-cycle upgrades, additional user seats, regional taxes, or one-time add-ons. If something still looks incorrect, reply to your invoice email or contact billing@supportplus.ai with your account ID and a screenshot of the invoice.
+
+Q: How do I cancel my subscription?
+A: To cancel, go to Settings > Billing > Subscription and click "Cancel Plan". Your account remains active until the end of the current billing period — you won't be charged again. You can reactivate within 90 days without losing any data. We do not offer partial refunds for unused time within a billing cycle.
+
+Q: Can I get a refund?
+A: Yes. We offer a 14-day money-back guarantee for all new subscriptions. To request a refund: (1) Email support@supportplus.ai within 14 days of purchase. (2) Include your order ID and reason for the refund. (3) Refunds are processed within 5–7 business days back to your original payment method. Refunds are not available for renewals or after the 14-day window.
+
+Q: How do I upgrade or downgrade my plan?
+A: Go to Settings > Billing > Subscription and select your new plan. Upgrades take effect immediately with prorated billing for the remainder of the current cycle. Downgrades take effect at the start of your next billing cycle. You will not lose any data during a plan change.
+
+Q: How do I add or remove seats from my plan?
+A: Navigate to Settings > Billing > Seats. Click "Add Seats" or "Remove Seats" and enter the number you need. Seat additions are prorated and billed immediately. Seat reductions take effect at the next billing cycle. Minimum seat counts depend on your plan tier.
+
+Q: What happens to my data if my payment fails?
+A: If a payment fails, we retry it three times over 7 days. During this grace period your account stays fully active. If payment is not resolved within 7 days, your account is suspended (read-only). Data is retained for 30 days after suspension. You can reactivate by updating your billing information and paying the outstanding balance.
+
+====================
+SECTION: Login & Account Access
+====================
+
+Q: I cannot log in to my account. What should I do?
+A: If you cannot log in, try these steps: (1) Make sure you are using the correct email address and password — check for typos. (2) Reset your password using the "Forgot Password" link on the login page. (3) Clear your browser cookies and cache, then try again. (4) Disable any browser extensions (especially ad blockers or VPNs) that may interfere. (5) Try a different browser or incognito/private mode. (6) If you use Google or SSO login, make sure you click the correct provider button. If none of these work, contact support@supportplus.ai with your email address and a description of the error.
+
+Q: My account is locked. How do I unlock it?
+A: Accounts are locked after 5 consecutive failed login attempts as a security measure. The lock automatically lifts after 15 minutes. To unlock immediately: click "Forgot Password" to reset your credentials. If your account is locked due to suspicious activity, contact support@supportplus.ai for manual review.
+
+Q: I am not receiving the password reset email.
+A: If the reset email hasn't arrived: (1) Check your spam, junk, and promotions folders. (2) Add noreply@supportplus.ai to your safe senders list. (3) Make sure you entered the exact email address linked to your account. (4) Wait up to 5 minutes — email delivery can be delayed. (5) Request the reset email again. If still not received after 10 minutes, contact support@supportplus.ai with your account email.
+
+Q: How do I enable or disable two-factor authentication (2FA)?
+A: To enable 2FA: go to Settings > Security > Two-Factor Authentication and click "Enable". We support authenticator apps (Google Authenticator, Microsoft Authenticator, Authy) and SMS verification. Save the backup codes shown — you'll need them if you lose your 2FA device. To disable 2FA, go to the same page and click "Disable", then confirm with your password.
+
+Q: I lost access to my 2FA device. How do I recover my account?
+A: Use one of your saved backup codes to log in. On the 2FA prompt screen, click "Use a backup code" and enter one of your 10-digit codes. After logging in, go to Settings > Security > 2FA to reset your authenticator. If you don't have backup codes, contact support@supportplus.ai from your registered email with proof of identity.
+
+Q: How do I change my account email address?
+A: Go to Settings > Profile > Email Address and click "Change Email". Enter your new email and confirm with your current password. A verification link will be sent to the new address — click it to confirm the change. Your old email will receive a security notification. The change takes effect immediately after verification.
+
+Q: How do I update my profile information?
+A: Go to Settings > Profile to update your name, display picture, timezone, and notification preferences. Click "Save Changes" after editing. Profile picture must be JPG or PNG, under 5 MB. Changes are reflected immediately across the platform. For company/organisation details, go to Settings > Workspace.
+
+====================
+SECTION: Technical Support
+====================
+
+Q: Why is the application running slowly?
+A: Slow performance is usually caused by: (1) Browser cache — clear it with Ctrl+Shift+Delete (Chrome/Edge) or Cmd+Shift+Delete (Mac). (2) Browser extensions — try disabling them or use incognito mode. (3) Slow internet connection — run a speed test at fast.com. (4) Too many browser tabs open — close unused tabs to free memory. (5) Outdated browser — update to the latest version. If the platform itself is slow for everyone, check status.supportplus.ai. Contact support with a screenshot of your browser's Network tab (F12) if the issue persists.
+
+Q: Why is my app crashing or freezing?
+A: Follow these steps to fix crashes: (1) Force-close and reopen the app, or hard-refresh the page (Ctrl+F5 on Windows, Cmd+Shift+R on Mac). (2) Update the app to the latest version from the app store or our downloads page. (3) Clear the app cache: on mobile go to Device Settings > Apps > SupportPlus > Clear Cache. On web, clear browser cache. (4) Check your device storage and RAM — low resources cause crashes. (5) Try on a different device or browser to isolate the issue. (6) Note the exact error code displayed and email support@supportplus.ai with your OS version, device model, and what you were doing when the crash occurred.
+
+Q: How do I integrate the API with my application?
+A: Our REST API is available for Pro and Enterprise plans. Steps: (1) Get your API key from Settings > Developer > API Keys. (2) Read the full documentation at docs.supportplus.ai/api. (3) Authenticate using your API key in the Authorization header: "Bearer YOUR_KEY". We support OAuth 2.0, JWT, and API key auth. Official SDKs are available for Python, JavaScript, Java, Go, and Ruby. Rate limits: Free = 60 req/min, Pro = 500 req/min, Enterprise = custom.
+
+Q: What browsers and devices are supported?
+A: Supported browsers: latest two major versions of Chrome, Firefox, Safari, and Microsoft Edge. iOS 14+ and Android 9+ are supported for mobile apps. Internet Explorer is not supported. For best performance, use Chrome or Firefox with hardware acceleration enabled. Minimum screen resolution: 1024x768.
+
+Q: How do I export my data?
+A: Go to Settings > Data & Privacy > Export Data. Choose your format: CSV, JSON, or PDF. Large exports run in the background and you will receive a download link via email within 1 hour. Export files are available for 48 hours after generation. You can also use our API endpoint GET /exports for automated exports.
+
+Q: The API is returning a 429 error. What does that mean?
+A: A 429 error means you have exceeded your rate limit. Limits are: Free plan — 60 requests/minute, Pro — 500 requests/minute, Enterprise — custom limits. To fix this: (1) Implement exponential backoff in your code (wait and retry). (2) Cache API responses client-side where possible. (3) Batch requests where the API supports it. (4) Contact sales@supportplus.ai to discuss a limit increase or Enterprise plan.
+
+Q: How do I report a bug or technical issue?
+A: To report a bug: (1) Go to Help > Report a Bug in the app, or email support@supportplus.ai. (2) Include: your browser/OS version, steps to reproduce the issue, expected vs. actual behavior, and any error messages or screenshots. (3) For critical issues affecting your business, mark your email as URGENT for priority response. We aim to acknowledge bug reports within 4 hours on business days.
+
+====================
+SECTION: Refunds & Cancellations
+====================
+
+Q: What is your refund policy?
+A: Our refund policy: (1) New subscriptions: 14-day money-back guarantee — full refund, no questions asked. (2) Renewals: not eligible for refund once processed (cancel before the renewal date to avoid being charged). (3) Annual plans: prorated refunds may be offered at our discretion after the 14-day window — contact billing@supportplus.ai to discuss. (4) Add-ons and seat upgrades: non-refundable after use. Enterprise contracts: refer to your contract terms.
+
+Q: How long does a refund take to process?
+A: Once your refund is approved, it is processed within 5–7 business days. The time it appears in your account depends on your bank or card provider — typically 3–10 additional business days. PayPal refunds are usually faster (1–2 days). You will receive a confirmation email when the refund is initiated. If you haven't seen it after 14 business days, contact billing@supportplus.ai with your refund confirmation number.
+
+Q: I was charged after cancelling. What should I do?
+A: This can happen if: (1) The cancellation was submitted after the billing date (subscriptions renew on the same date each month/year). (2) The cancellation was not saved — log in and verify your subscription status shows "Cancelled" in Settings > Billing. (3) A different subscription or add-on renewed separately. Email billing@supportplus.ai with your account ID and the charge date. If you were incorrectly charged, we will issue a full refund promptly.
+
+====================
+SECTION: Features & Usage
+====================
+
+Q: What is SupportPlus AI and what can it do?
+A: SupportPlus AI is an intelligent customer support platform that combines: AI-powered chat (Gemini + Groq LLMs), automated ticket routing, knowledge base management (RAG with vector search), and real-time web data integration (Firecrawl). Key features: 24/7 AI support chat, FAQ knowledge base with semantic search, memory-aware personalised responses, multi-language support (50+ languages), live web context for up-to-date answers, sentiment analysis, automatic escalation to human agents, and analytics dashboards. It integrates with Slack, Zendesk, Jira, and Salesforce.
+
+Q: How do I set up the knowledge base?
+A: Go to Knowledge Base > Manage Content. You can: (1) Upload documents — PDF, DOCX, TXT supported. (2) Import web pages via URL (scraped and indexed automatically). (3) Manually create FAQ entries using the Q&A editor. (4) Bulk import via CSV with columns: question, answer, section. Our AI automatically indexes and tags content. Allow up to 30 minutes for large imports. Use sections and tags to organize content for better retrieval accuracy.
+
+Q: Does SupportPlus AI support multiple languages?
+A: Yes. SupportPlus AI supports 50+ languages including English, Spanish, French, German, Portuguese, Chinese (Simplified & Traditional), Japanese, Korean, Arabic, Hindi, and more. Language detection is automatic — the AI responds in the same language the user writes in. You can configure the default response language per customer segment in Settings > Internationalization.
+
+Q: How does AI routing work?
+A: Our AI analyzes incoming queries using NLP to detect intent, urgency, topic, and sentiment. It then routes tickets using: agent expertise tags, current queue workload, customer priority tier (VIP vs. standard), SLA requirements, and historical resolution success rates. You can customise routing rules in Settings > Routing > Rules Engine with drag-and-drop logic.
+
+Q: Can I customise the AI response style?
+A: Yes. Go to AI Settings > Response Templates to configure: tone (formal/casual/friendly), response length (concise/detailed), brand-specific terminology, custom greeting/closing phrases, and domain-specific knowledge prompts. Enterprise customers can fine-tune the underlying AI model on their own data for higher accuracy.
+
+Q: How do I connect SupportPlus AI to Slack?
+A: (1) Go to Integrations > Slack and click "Connect to Slack". (2) Authorize the SupportPlus app in your Slack workspace. (3) Configure: which channels receive support ticket notifications, the /support slash command, and Slack as a customer-facing channel. (4) Test with /support hello in any channel. Full guide: docs.supportplus.ai/integrations/slack.
+
+====================
+SECTION: Security & Privacy
+====================
+
+Q: How is my data protected?
+A: SupportPlus AI uses: AES-256 encryption for data at rest, TLS 1.3 for all data in transit, SOC 2 Type II certification, GDPR compliance, HIPAA compliance (Enterprise tier), and ISO 27001 certification. Data is stored in geographically redundant, enterprise-grade data centers. We perform regular third-party security audits. We never sell customer data to third parties.
+
+Q: Where is my data stored?
+A: By default, data is stored in US-East data centers (AWS us-east-1). Enterprise customers can select their preferred region: US-East, US-West, EU-West (Frankfurt, GDPR-compliant), or Asia-Pacific (Singapore). Data residency guarantees with contractual commitments are available for Enterprise plans. Contact compliance@supportplus.ai for details.
+
+Q: How do I delete my account and all my data?
+A: Go to Settings > Account > Delete Account. This permanently and irreversibly deletes all data including: conversations, knowledge base, analytics, integrations, and billing history. As required by GDPR, deletion is completed within 30 days. We strongly recommend exporting your data (Settings > Data & Privacy > Export) before deleting. Enterprise accounts: contact your account manager.
+
+Q: Is SupportPlus AI GDPR compliant?
+A: Yes, fully GDPR compliant. SupportPlus AI acts as a Data Processor for your customer data. All customers can access our Data Processing Agreement (DPA) at supportplus.ai/legal/dpa. Built-in GDPR features include: right to erasure (data deletion on request), data portability (export all data), consent management tools, and full audit logs of data access.
+
+====================
+SECTION: Onboarding & Getting Started
+====================
+
+Q: How do I get started with SupportPlus AI?
+A: Getting started is quick: (1) Sign up at supportplus.ai/signup — no credit card required for the trial. (2) Complete the 5-minute onboarding wizard to set up your workspace. (3) Import your knowledge base content (FAQ documents, PDFs, or URLs). (4) Add your team members via Settings > Team > Invite Members. (5) Install the chat widget on your website using the embed snippet from Settings > Widget. (6) Test the AI with sample queries. Full guide: docs.supportplus.ai/quickstart.
+
+Q: How long does onboarding take?
+A: Most teams are fully operational within 2–3 hours: initial wizard setup takes ~15 minutes, knowledge base indexing takes 30–60 minutes depending on content size, and widget installation takes ~10 minutes. We offer free onboarding video calls for Pro and Enterprise customers — book at supportplus.ai/onboarding. Our team is available to assist via live chat during business hours.
+
+Q: Is there a free trial?
+A: Yes! 14-day free trial with full access to all Pro features. No credit card required to start. After the trial, plans start at Starter ($29/month), Pro ($99/month), and Enterprise (custom pricing). Educational institutions get 50% off — contact edu@supportplus.ai. Non-profits and open-source projects may qualify for special pricing — contact sales@supportplus.ai.
+
+Q: How do I add team members?
+A: Go to Settings > Team > Invite Members. Enter email addresses (comma-separated for bulk invites) and assign roles: Admin (full access), Manager (team oversight + reports), Agent (handle tickets and chat), Viewer (read-only analytics), or Developer (API access only). Invites are valid for 7 days. Manage granular permissions in Settings > Team > Roles & Permissions.
+
+Q: What training and support resources are available?
+A: We provide: (1) Interactive in-app product tour — click the "?" icon in the navigation bar. (2) Video tutorial library at supportplus.ai/tutorials (50+ videos). (3) Full developer documentation at docs.supportplus.ai. (4) Community forum at community.supportplus.ai — ask questions and share tips. (5) Weekly live webinars — register at supportplus.ai/webinars. (6) Dedicated customer success manager for Enterprise plans. (7) 24/7 email support; live chat during business hours (Mon–Fri, 9am–6pm UTC).
