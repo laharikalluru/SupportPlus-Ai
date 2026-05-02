@@ -1,8 +1,9 @@
 services:
-  # ── 1. The FastAPI Backend ──────────────────────────
+  # ── 1. The FastAPI Backend (FREE TIER) ──────────────
   - type: web
     name: supportplus-backend
     env: python
+    plan: free
     buildCommand: "pip install -r requirements.txt"
     startCommand: "uvicorn app.main:app --host 0.0.0.0 --port $PORT"
     envVars:
@@ -14,29 +15,19 @@ services:
         sync: false
       - key: FIRECRAWL_API_KEY
         sync: false
-    # We mount a persistent disk so ChromaDB & SQLite don't get erased on reboot
-    disk:
-      name: supportplus-data
-      mountPath: /opt/render/project/src/app/db
-      sizeGB: 1
 
-  # ── 2. The Streamlit Frontend UI ────────────────────
+  # ── 2. The Streamlit Frontend UI (FREE TIER) ────────
   - type: web
     name: supportplus-ui
     env: python
+    plan: free
     buildCommand: "pip install -r requirements.txt"
     startCommand: "streamlit run ui.py --server.port $PORT --server.address 0.0.0.0"
     envVars:
       - key: PYTHON_VERSION
         value: 3.10.13
       - key: SUPPORTPLUS_API_URL
-        # This tells Streamlit to talk to the backend we just defined above
         fromService:
           type: web
           name: supportplus-backend
           envVarKey: RENDER_EXTERNAL_URL
-    # Persistent disk to save the ui_history.json chat history
-    disk:
-      name: supportplus-ui-data
-      mountPath: /opt/render/project/src/app/data
-      sizeGB: 1
